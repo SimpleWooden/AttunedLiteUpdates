@@ -1,0 +1,21 @@
+{
+  "latest": "0.1.0",
+  "cache": {
+    "version": "2026-08-31",
+    "updatedAt": "2026-08-31T02:41:00Z",
+    "changelog": "Shipped Intune settings catalog as of 31/08/2026.",
+    "files": {
+      "settings": "https://github.com/SimpleWooden/AttunedLiteUpdates/blob/main/setting-catalog/settings.json",
+      "categories": "https://github.com/SimpleWooden/AttunedLiteUpdates/blob/main/setting-catalog/categories.json",
+      "meta": "https://github.com/SimpleWooden/AttunedLiteUpdates/blob/main/setting-catalog/meta.json"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "releasedAt": "2026-09-07",
+      "changelog": "Initial Attuned desktop release.",
+      "downloadUrl": "https://github.com/SimpleWooden/AttunedLiteUpdates/releases/download/v0.1.0/Attuned_0.1.0_x64-setup.exe"
+    }
+  ]
+}
