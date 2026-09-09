@@ -13,10 +13,12 @@
   "releases": [
     {
       "version": "0.2.0",
-      "releasedAt": "2026-09-08",
-      "changelog": "Full UI redesign: copper-edge navigation, master/detail Projects, grouped baseline compare, document preview, and restyled as-built HTML.",
+      "releasedAt": "2026-09-09",
+      "changelog": "Full UI redesign: copper-edge navigation, master/detail Projects, grouped baseline compare, document preview, and restyled as-built HTML. A portable zip is also available (unzip and run attuned.exe; no installer).",
       "downloadUrl": "https://github.com/SimpleWooden/AttunedLiteUpdates/releases/download/v0.2.0/Attuned_0.2.0_x64-setup.exe",
-      "sha256": "4670edd44664e4ac7a91fce9b621822fa099594d78b2db6e51a26f36ce9bffa3"
+      "sha256": "99a2b98ed15c44b26ef8fb0799abfd9cd63df92872609727b23526e7331ef220",
+      "portableUrl": "https://github.com/SimpleWooden/AttunedLiteUpdates/releases/download/v0.2.0/Attuned_0.2.0_portable.zip",
+      "portableSha256": "27ac9453aa485e8c09044b645b30db41930916ab7ada0e6b224562e44f055ff2"
     },
     {
       "version": "0.1.0",
